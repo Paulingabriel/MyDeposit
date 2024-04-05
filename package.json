@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "cors": "^2.8.5",
     "react-autocomplete": "^1.8.1"
   }
 }
